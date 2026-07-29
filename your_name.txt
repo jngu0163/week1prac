@@ -1,0 +1,1 @@
+- Found Git branching interesting.\n- Merging conflicts can be difficult.\n- Colab environment setup for Git is new.
